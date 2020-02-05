@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link href="style2.css" rel="stylesheet" type="text/css">
         <title> GitHub class demo </title>
         
     </head>
@@ -11,8 +12,17 @@
         <a href="https://www2.gmu.edu" >This is the link</a>
 
         <img src="mason-logo.png" alt="gmu.edu" width="200" height="190">
-    
+
+    <br>
     <button type="button" onclick="alert('Hello World')">Click Here!</button>
+    </br>
+
+    <p id="demo"></p>
+    <button type="button" onclick="document.getElementById('demo').innerHTML=Date()">
+        Click here for the date and time.
+
+    </button>
+
     </body>
 
 </html>
