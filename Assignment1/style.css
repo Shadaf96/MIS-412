@@ -10,13 +10,14 @@
     background-image: url(https://photos.mandarinoriental.com/is/image/MandarinOriental/paris-2017-home?$MO_masthead-property-mobile$);
     background-size: 2400px;
     opacity: .857;
+    
   }
   
   .Title
   {
     color: white;
     text-align: left;
-    font-size: xx-large;
+    font-size: 35px;
   }
 
   .header {
@@ -65,26 +66,28 @@
      opacity: 10;
      padding: 20px;
      margin-top: 20px;
+     text-align: center;
   }
   
   .about
   {
-    background-color: lightgray;
+    background-color: rgb(233, 230, 230);
     position: relative;
-    padding: 0px;
-    text-align: start;
+    padding: 10px;
+    text-align: left;
   }
 
   .More
   {
-    position: relative;
+    position: left;
     text-align: left;
     padding: 20px;
     
 
 
   }
- 
+
+
   .footer {
     padding: 20px;
     text-align: center;
