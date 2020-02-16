@@ -101,7 +101,7 @@ details[open] summary::-webkit-details-marker {
 }
 body {
     background: rgb(1,5,51);
-    background: linear-gradient(90deg, rgb(37, 1, 51) 0%, rgba(94,9,121,1) 74%);
+    background: linear-gradient(90deg, rgb(37, 1, 51) 0%, rgb(104, 7, 67) 74%);
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
